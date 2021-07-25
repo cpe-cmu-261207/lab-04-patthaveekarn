@@ -65,7 +65,7 @@ const taskbxCons = (TaskCalled) => {
     }
 
     //Task
-    Box.className = "max-w-sm mx-auto my-0.5 p-1 border border-indigo-500 flex flex-row justify-between"
+    Box.className = "max-w-sm mx-auto my-0.5 p-1 border border-red-500 flex flex-row justify-between "
     Text.className = "mainFont text-lg text-center p-1 pr-5"
     Action.className = "flex flex-row justify-center space-x-2"
     Delete.className = "p-0.5 border bg-pink-400"
